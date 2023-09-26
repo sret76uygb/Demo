@@ -1,0 +1,5 @@
+com\examples\movies\service\GetMoviesService.class
+com\examples\movies\MoviesApplication.class
+com\examples\movies\controller\GetMoviesController.class
+com\examples\movies\exceptionhandler\PriceManagerResponse.class
+com\examples\movies\repository\MoviesRepository.class
